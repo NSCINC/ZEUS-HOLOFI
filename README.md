@@ -1,6 +1,3 @@
-Aqui está uma versão revisada do seu README para o projeto **Zeus HoloFi**, incluindo a adição da linguagem ABC em preto e branco. 
-
-```markdown
 # ⚡ Zeus HoloFi ⚡ 
 
 ## 🌌 Technologies Utilized
@@ -45,70 +42,3 @@ Aqui está uma versão revisada do seu README para o projeto **Zeus HoloFi**, in
 
 ```sh
 git clone https://github.com/nscinc/zeus-holofi.git
-```
-
-### Install Dependencies:
-
-```sh
-cd zeus-holofi
-npm install
-```
-
-### Configure the Zeus Network:
-
-1. Ensure your Zeus client is running and synchronized.
-2. Set environment variables in the `.env` file with details for your HoloFi network.
-
-### Deploy Smart Contracts:
-
-1. Compile and deploy the necessary smart contracts on the HoloFi network.
-2. Update contract addresses in configuration files (e.g., `config.js`) after deployment.
-
-### Build the Node.js Frontend:
-
-```sh
-npm run build
-```
-
-### Launch the DApp:
-
-```sh
-npm start
-```
-
-### Interact with the Zeus DApp:
-
-Use the provided REST API endpoints to manage digital assets and execute transactions. Digital assets can be represented as customizable tokens on the HoloFi network.
-
-## 🌌 Global Integration
-
-Zeus is engineered to deliver advanced capabilities that emphasize security, transparency, and computational efficiency in DApps. Our platform is designed to be accessible and usable worldwide.
-
-## ⚛️ Innovative Approaches and Intelligent Asset Development
-
-This platform adopts cutting-edge methodologies to create intelligent digital assets and incorporate quantum computing, expanding the potential for decentralized applications and digital asset management.
-
-## 🔧 Configuration Updates
-
-- **Environment Configuration**: Update your `.env` file with recent environment variables relevant to quantum integration and Zeus functionalities.
-- **New Dependencies**: New support for quantum integration libraries has been added, alongside updates to existing frameworks.
-
-## 📜 License
-
-This project is licensed under the Apache-2.0 License. See the LICENSE file for more information.
-
-Zeus stands at the forefront of HoloFi technology, offering a robust platform for AI-driven decentralized applications and digital asset management. With its advanced integrations, including quantum computing and global functionalities, Zeus is set to transform the digital landscape.
-
----
-
-### Contact Information
-
-**FOUNDER**: Lucas Januário do Nascimento
-
----
-
-### Additional Notes:
-- Ensure to replace any placeholder links and paths (e.g., repository link, image path) with the actual ones relevant to your project.
-- Consider adding more sections, such as a "Contributing" guide or FAQs, if applicable.
-
-composer create-project laravel/laravel example-app
